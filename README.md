@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Abaki12
 - 👀 I’m interested in coding
-- 🌱 I’m currently in Harvard University doing my Computer Science
 - 💞️ I’m looking to collaborate on you
 - 📫 How to reach me ...linkedIn at pamela abaki and on my github.com....https://github.com/Abaki12
 - 
